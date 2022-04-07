@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Overview
-It is the repository for my portfolio
+It is the repository for my personal portfolio.
 
 
 # Lincense
